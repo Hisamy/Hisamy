@@ -13,6 +13,22 @@
     <img src="https://skillicons.dev/icons?i=discord,figma,postgresql,firebase,tailwind,github,html,css,java,js,kotlin,mongodb,mysql,vite,nodejs,expressjs,postman,react,docker,rabbitmq,vue,vscode,unity" alt="Tech Stack" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
+  </ul>
+</div>
+
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hisamy" alt="GitHub Streak" /></a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/Hisamy">
+    <img src="https://metrics.lecoq.io/Hisamy?template=classic&base=languages&config.timezone=America%2FMexico_City" alt="Top Languages" />
+  </a>
+</div>
 
 
 <br>
