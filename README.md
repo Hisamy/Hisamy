@@ -22,9 +22,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Hisamy">
-    <img src="https://streak-stats.demolab.com/?user=Hisamy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hisamy" alt="GitHub Streak" /></a>
 </div>
 <br>
 <div align="center">
