@@ -20,20 +20,22 @@
   </ul>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Hisamy">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hisamy&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Hisamy">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisamy&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-  </a>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
+  </ul>
 </div>
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Hisamy">
+    <img src="https://streak-stats.demolab.com/?user=Hisamy&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+<br>
+<div align="center">
+  <a href="https://github.com/Hisamy">
+    <img src="https://metrics.lecoq.io/Hisamy?template=classic&base=languages&config.timezone=America%2FMexico_City" alt="Top Languages" />
+  </a>
+</div>
+
+
