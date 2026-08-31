@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Hisamy </h1>
+<h1 align="center">Hi, I'm Hisamy</h1>
+<h3 align="center">Software Engineer</h3>
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -8,36 +10,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,postgresql,firebase,tailwind,github,html,css,java,js,kotlin,mongodb,mysql,vite,nodejs,expressjs,postman,react,docker,rabbitmq,vue,tailwind,vscode,unity" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,postgresql,firebase,tailwind,github,html,css,java,js,kotlin,mongodb,mysql,vite,nodejs,expressjs,postman,react,docker,rabbitmq,vue,vscode,unity" alt="Tech Stack" />
   </a>
 </p>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Github Stats</h2></summary>
+    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
   </ul>
 </div>
 
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2rem;">
-
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  </a>
 </div>
-
-
-
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
