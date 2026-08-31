@@ -21,6 +21,15 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/Hisamy">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hisamy&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Hisamy">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisamy&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
   </a>
