@@ -22,13 +22,11 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hisamy" alt="GitHub Streak" /></a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Hisamy">
-    <img src="https://metrics.lecoq.io/Hisamy?template=classic&base=languages&config.timezone=America%2FMexico_City" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hisamy&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
+<br>
+
 
 
