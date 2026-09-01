@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/Hisamy">
-    <img src="https://metrics.lecoq.io/Hisamy?template=classic&base=languages&config.timezone=America%2FMexico_City&config.theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisamy&theme=microsoft-dark" alt="Top Langs" />
   </a>
 </div>
 
