@@ -26,11 +26,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/Hisamy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisamy&theme=microsoft-dark" alt="Top Langs" />
-  </a>
-</div>
 
 
 <br>
